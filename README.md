@@ -17,6 +17,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :heavy_check_mark: Resultado
 
+
+[Resultado online](https://suspicious-swirles-c7f332.netlify.app/)
+
+
 <h4 align="center">
     <img alt="Home" title="#home" width="450px" src="gif.gif">
 </h4>
